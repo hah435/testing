@@ -35,7 +35,7 @@ public static MainFrame frame;
        frame=t;
         initComponents();
     }
-   
+   // live for ever 
 
     /**
      * This method is called from within the constructor to initialize the form.
